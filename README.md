@@ -25,3 +25,4 @@ Capabilities:
 3. Run as a service (Be able to disable kscreen)
 4. Configure screen-ruler with GUI
 
+Right now the port (connection type) is used as identifier. In the future I would like to use the PID instead and add the option to name specific monitors. This might not be an option for all port types though.
